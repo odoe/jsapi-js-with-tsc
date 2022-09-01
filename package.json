@@ -1,0 +1,16 @@
+{
+  "name": "jsapi-js-typings",
+  "version": "1.0.0",
+  "description": "Demo application using TypeScript Typings in JavaScript with ArcGIS API 4 for JavaScript",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.24.0",
+    "typescript": "^4.8.2"
+  }
+}
